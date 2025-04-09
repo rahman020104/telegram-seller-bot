@@ -1,1 +1,1 @@
-# telegram-seller-bot
+# telegram-seller-bot.py
